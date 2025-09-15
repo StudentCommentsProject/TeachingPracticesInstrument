@@ -35,4 +35,38 @@ Desde Schneider & Preckel:
   * Calidad y equidad en los exámenes,
   * Sensibilidad del profesor al nivel y progreso de la clase
 
+Prácticas disfuncionales tomadas esde Astleitner(2020):
+
+* Gatillantes de la desatención:
+ * Actividades instruccionales monótonas,
+ * Ausencia de estimulación perceptiva,
+ * No estimular la indagación
+
+* Establecimiento de metas difusas:
+ * Objetivos desbalanceados,
+ * Objetivos poco claros
+
+* Prerrequisitos de aprendizaje:
+ * Falta de orientaciones generales sobre nuevos contenidos,
+ * Falta de tareas preparatorias,
+ * Omitir aprendizajes previos
+
+* Manejo caótico de información:
+ * Desorganización,
+ * Falta de apoyo en la integración de nuevo conocimiento
+
+* Abordaje de las dificultades de aprendizaje:
+ * Ausencia de modelación,
+ * Ausencia de acompañamiento,
+ * Andamiaje inadecuado o insuficiente
+
+* Desalineamiento en la evaluación y retroalimentación:
+ * Problemas de validez,
+ * No hay retroalimentación constructiva y
+ * Retroalimentación inoportuna
+
+* Inaplicabilidad del conocimiento:
+ * No se estimulan conexiones o analogías,
+ * Falta aplicación de conocimientos y habilidades en diferentes contextos
+
 
