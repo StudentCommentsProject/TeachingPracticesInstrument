@@ -1,7 +1,7 @@
 Teaching practices documentation and details
 ================
 
-# Teaching practices
+# Description of extracted teaching practices
 
 | Type | Teaching Practice | Description | Source | Original |
 |:---|:---|:---|:---|:---|
@@ -49,3 +49,7 @@ Teaching practices documentation and details
 |  | No application of knowledge and skills in different contexts. | Knowledge and skills are not applied in varying scenarios or with different experiences. | Astleitner (2020) | Paas, F. G., & Van Merriënboer, J. J. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. Journal of Educational Psychology, 86, 122–133. doi: <https://doi.org/10.1037/0022-0663.86.1.122> |
 |  | Disrespectful treatment. | This includes any expression by the instructor that, even if unintentional, has the effect of belittling, humiliating, or ridiculing students. This includes behaviors such as destructive feedback and speaking to students in a condescending manner. |  | Kari Stamland Gusfre, Janne Støen, and Hildegunn Fandrem. 2023. Bullying by teachers towards students—A scoping review. International journal of bullying prevention 5, 4 (2023), 331–347.; <br><br>Eun-Jun Park and Hyunwook Kang. 2021. Experiences of undergraduate nursing students with faculty incivility in nursing classrooms: A meta-aggregation of qualitative studies. Nurse Education in Practice 52 (2021), 103002. <https://doi.org/10.1016/j.nepr.2021.103002> |
 |  | Discriminatory treatment. | Faculty treats students unfairly based on characteristics such as gender, ethnic background, religion, or social class. |  | Muhammad Rashid Ali, Badar Nadeem Ashraf, and Chuanmin Shuai. 2019. Teachers’ Conflict-Inducing Attitudes and Their Repercussions on Students’ Psychological Health and Learning Outcomes. International Journal of Environmental Research and Public Health 16, 14 (2019). <https://doi.org/10.3390/ijerph16142534> |
+
+
+# Percentage of comments in dataset labeled with each teaching practice
+
