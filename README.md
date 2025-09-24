@@ -1,7 +1,7 @@
 Teaching practices documentation and details
 ================
 
-Labeled dataset[labeled_dataset_spanish.csv]
+[Labeled dataset](labeled_dataset_spanish.csv)
 
 
 
