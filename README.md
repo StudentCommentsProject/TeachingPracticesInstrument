@@ -1,6 +1,10 @@
 Teaching practices documentation and details
 ================
 
+Labeled dataset[labeled_dataset_spanish.csv]
+
+
+
 # Description of extracted teaching practices
 
 | Type | Teaching Practice | Description | Source | Original |
