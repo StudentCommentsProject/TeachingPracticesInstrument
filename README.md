@@ -55,5 +55,3 @@ Teaching practices documentation and details
 |  | Discriminatory treatment. | Faculty treats students unfairly based on characteristics such as gender, ethnic background, religion, or social class. |  | Muhammad Rashid Ali, Badar Nadeem Ashraf, and Chuanmin Shuai. 2019. Teachers’ Conflict-Inducing Attitudes and Their Repercussions on Students’ Psychological Health and Learning Outcomes. International Journal of Environmental Research and Public Health 16, 14 (2019). <https://doi.org/10.3390/ijerph16142534> |
 
 
-# Percentage of comments in dataset labeled with each teaching practice
-
