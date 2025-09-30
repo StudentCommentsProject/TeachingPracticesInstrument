@@ -81,6 +81,14 @@ Our labeling of teaching practices is available in JSON format:
 
 ### Descriptions of added practices, suggested by expert panel
 
+| Practice | Category | Description | Reference|
+|:---|:---|:---|:---|
+| Authentic assessment| Effective | Evaluation using situations, tasks, or standards similar to those that professionals usually face. | |
+| Peer assessment| Effective | Students evaluate the quality of their peers’ work and provide feedback to one another| | |
+| Interactive materials| Effective | Provide students with materials they can interact with beyond the classroom (quizzes, exercises, or others)| | |
+| Clarity and comprehensibility explanations| Effective | Ensure that the course content is delivered clearly and understandably to improve student learning| | |
+| Clarity of course materials| Effective | Class visual resources (such as presentations or others) are understandable and facilitate content comprehension| | |
+| Lack of intellectual challenges| The course content, activities, or assignments do not present an interesting challenge for the students, their level of knowledge, and their skills.| | |
 
 ### Frequencies in our dataset
 
@@ -90,27 +98,20 @@ Our labeling of teaching practices is available in JSON format:
 
 #### Final model for Effective Teaching Practices
 
-       F1    F2    F3 F4
-F1  1.000               
-F2  0.001 1.000         
-F3 -0.176 0.218 1.000   
-F4  0.288 0.031 0.035  1
-
-| | F1 | F2| F3|  F4|
+| | Teaching and assesement consistency| Fostering an emotional connection with content| Student-faculty relationship|  Clear content transmition|
 |:---|:---|:---|:---|:---|
-| F1| 1.00 | YES | | |
-| F2| 0.001 | 1.00 | | |
-| F3| -0.176| 0.218 |1.00 | |
-| F4| 0.288| 0.031 | 0.035| 1.00|
-
-
+| Teaching and assesement consistency| 1.00 |  | | |
+| Fostering an emotional connection with content| 0.001 | 1.00 | | |
+| Student-faculty relationship| -0.176| 0.218 |1.00 | |
+| Clear content transmition| 0.288| 0.031 | 0.035| 1.00|
 
 #### Final model for Malfunctional Teaching Practices
 
-
-
-
-
+| |Breakdown of constructive alignment | Lack of pedagogical support | Problems in curriculum design|
+|:---|:---|:---|:---|
+| Breakdown of constructive alignment| 1.00 |  | |
+| Lack of pedagogical support,|  0.028| 1.00 | |
+| Problems in curriculum design| 0.097| 0.195|1.00 |
 
 
 
