@@ -27,7 +27,9 @@ Our labeling of teaching practices is available in JSON format:
 
 
 
-## Description of extracted teaching practices
+## Further details
+
+### Description of extracted teaching practices from prior research
 
 | Type | Teaching Practice | Description | Source | Original |
 |:---|:---|:---|:---|:---|
@@ -46,12 +48,12 @@ Our labeling of teaching practices is available in JSON format:
 |  | Collaborative Learning. | Students learning in teams (also known as team-based learning). | Smith & Baik | Travis, L. L., Hudson, N. W., Henricks-Lepp, G. M., Street, W. S., & Weidenbenner, J. (2016). Team-Based Learning Improves Course Outcomes in Introductory Psychology. Teaching of Psychology, 43(2), 99–107. <doi:10.1177/0098628316636274> |
 |  | Peer learning. | Engage students in peer evaluation or peer teaching. | Smith & Baik | Hecimovich, M., & Volet, S. (2014). Simulated learning in musculoskeletal assessment and rehabilitation education: comparing the effect of a simulation-based learning activity with a peer-based learning activity. BMC Medical Education, 14, 253. <doi:http://dx.doi.org/10.1186/s12909-014-0253-6> |
 |  | Encouraging Questions and Discussions. | Encouraging students to ask questions and participate in discussions inside or outside the classroom. | Schneider & Preckel: |  |
-|  | Close Teacher-Student Relationship. | Teacher availability and willingness to help students or answer questions. | Smith & Baik | No estoy seguro |
+|  | Close Teacher-Student Relationship. | Teacher availability and willingness to help students or answer questions. | Smith & Baik | |
 |  | Clarity and Comprehensibility. | Ensuring that course content is delivered clearly and comprehensibly to enhance student learning. | Schneider & Preckel: |  |
 |  | Modelling. | Allowing students to witness problem-solving or reasoning so that thought processes, planning, or approaches become explicit. | Smith & Baik | Hilbert, T. S., Renkl, A., Kessler, S., & Reiss, K. (2008). Learning to prove in geometry: Learning from heuristic examples and how it can be supported. Learning and Instruction, 18(1), 54–65. <doi:10.1016/j.learninstruc.2006.10.008> |
 |  | Teacher Enthusiasm for the Course. | Demonstrating enthusiasm for the course or content to inspire students and create a positive learning environment. | Schneider & Preckel: |  |
 |  | Awareness of Learning/Progress. | Enabling students to recognize how they have developed/learned. | Smith & Baik | Masui, C., & Corte, E. (2005). Learning to reflect and to attribute constructively as basic components of self-regulated learning. British Journal of Educational Psychology, 75(3), 351–372. <doi:10.1348/000709905X25030> |
-|  | Frequent Feedback from Teachers. | Providing timely and high-quality feedback to help students understand their progress and areas for improvement. | Smith & Baik | No estoy seguro |
+|  | Frequent Feedback from Teachers. | Providing timely and high-quality feedback to help students understand their progress and areas for improvement. | Smith & Baik |  |
 |  | Quality and Fairness in Exams. | Ensuring that exams are fair, well-structured, and aligned with learning objectives to accurately assess achievement. | Schneider & Preckel: |  |
 |  | Student Self-Assessment. | Encouraging students to evaluate their own work, promoting reflection and self-awareness in learning. | Smith & Baik | Masui, C., & Corte, E. (2005). Learning to reflect and to attribute constructively as basic components of self-regulated learning. British Journal of Educational Psychology, 75(3), 351–372. <doi:10.1348/000709905X25030> |
 |  | Teacher Sensitivity to Class Level and Progress. | Adapting teaching and assessment practices to align with students’ current levels and progress. | Schneider & Preckel: |  |
@@ -75,5 +77,42 @@ Our labeling of teaching practices is available in JSON format:
 |  | No application of knowledge and skills in different contexts. | Knowledge and skills are not applied in varying scenarios or with different experiences. | Astleitner (2020) | Paas, F. G., & Van Merriënboer, J. J. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. Journal of Educational Psychology, 86, 122–133. doi: <https://doi.org/10.1037/0022-0663.86.1.122> |
 |  | Disrespectful treatment. | This includes any expression by the instructor that, even if unintentional, has the effect of belittling, humiliating, or ridiculing students. This includes behaviors such as destructive feedback and speaking to students in a condescending manner. |  | Kari Stamland Gusfre, Janne Støen, and Hildegunn Fandrem. 2023. Bullying by teachers towards students—A scoping review. International journal of bullying prevention 5, 4 (2023), 331–347.; <br><br>Eun-Jun Park and Hyunwook Kang. 2021. Experiences of undergraduate nursing students with faculty incivility in nursing classrooms: A meta-aggregation of qualitative studies. Nurse Education in Practice 52 (2021), 103002. <https://doi.org/10.1016/j.nepr.2021.103002> |
 |  | Discriminatory treatment. | Faculty treats students unfairly based on characteristics such as gender, ethnic background, religion, or social class. |  | Muhammad Rashid Ali, Badar Nadeem Ashraf, and Chuanmin Shuai. 2019. Teachers’ Conflict-Inducing Attitudes and Their Repercussions on Students’ Psychological Health and Learning Outcomes. International Journal of Environmental Research and Public Health 16, 14 (2019). <https://doi.org/10.3390/ijerph16142534> |
+
+
+### Descriptions of added practices, suggested by expert panel
+
+
+### Frequencies in our dataset
+
+
+### Correlations among latent traits of E-MIRT models
+
+
+#### Final model for Effective Teaching Practices
+
+       F1    F2    F3 F4
+F1  1.000               
+F2  0.001 1.000         
+F3 -0.176 0.218 1.000   
+F4  0.288 0.031 0.035  1
+
+| | F1 | F2| F3|  F4|
+|:---|:---|:---|:---|:---|
+| F1| 1.00 | YES | | |
+| F2| 0.001 | 1.00 | | |
+| F3| -0.176| 0.218 |1.00 | |
+| F4| 0.288| 0.031 | 0.035| 1.00|
+
+
+
+#### Final model for Malfunctional Teaching Practices
+
+
+
+
+
+
+
+
 
 
