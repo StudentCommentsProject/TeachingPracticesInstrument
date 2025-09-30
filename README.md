@@ -1,14 +1,33 @@
-Teaching Practices Instrument 
-Documentation and details
+Instrument for Teaching Practices Analysis
 ================
+## Documentation and details
+
+We provide here two versions of the Instrument for the analysis of effective and malfunctional teaching practices in student comments of teaching evaluation surveys, in JSON format. 
+
+The short version includes the 21 practices resulting from the construct validation process through Exploratory-Multidimensional Item Response Theory. In this case, within the "dimension" key, which also divides the practices into effective and malfunctional, there is a "trait" key that organizes the practices according to the latent dimension in which they presented loadings in the respective MIRT model.
+
+The extended version includes the 44 practices resulting from the content validation by the expert panel. The "dimension" key separates effective practices from malfunctional ones. Although we recommend the use of the short version, testing the extended version in other datasets may be of value to continue the validation process of the instrument and the teaching dimensions it measures.
 
 
+| Instrument | Content validation by expert panel | Construct validation through E-MIRT |  
+|:---|:---|:---|
+|[Short version](https://github.com/StudentCommentsProject/TeachingPracticesInstrument/blob/259242c073798f454840eaf98b53437847a14830/Instruments/Short_instrument_for_teaching_practices.json)| YES | YES | 
+|[Extended version]([https://github.com/StudentCommentsProject/TeachingPracticesInstrument/blob/259242c073798f454840eaf98b53437847a14830/Instruments/Short_instrument_for_teaching_practices.json](https://github.com/StudentCommentsProject/TeachingPracticesInstrument/blob/259242c073798f454840eaf98b53437847a14830/Instruments/Extended_instrument_for_teaching_practices.json))| YES | NO | 
+
+
+
+## Data
+The data used correspond to the Estudent Feedback Analysis Dataset (Herath et al. 2022), available on HuggingFace: [NLPC-UOM/Student_feedback_analysis_dataset](https://huggingface.co/datasets/NLPC-UOM/Student_feedback_analysis_dataset)
+
+> Herath, M., Chamindu, K., Maduwantha, H., & Ranathunga, S. (2022, June). Dataset and Baseline for Automatic Student Feedback Analysis. In Proceedings of the Thirteenth Language Resources and Evaluation Conference (pp. 2042-2049)
+
+Our labeling of teaching practices is available in JSON format:
 
 [Labeled dataset]([Data/Student_Feedback_Analysis_Dataset - labeled teaching practices.json](https://github.com/StudentCommentsProject/TeachingPracticesInstrument/blob/33c03b02be7cd57b77bc489943a4ee5bbc667f1c/Data/Student_Feedback_Analysis_Dataset%20-%20labeled%20teaching%20practices.json))
 
 
 
-# Description of extracted teaching practices
+## Description of extracted teaching practices
 
 | Type | Teaching Practice | Description | Source | Original |
 |:---|:---|:---|:---|:---|
