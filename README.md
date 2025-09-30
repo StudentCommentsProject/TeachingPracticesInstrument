@@ -1,7 +1,10 @@
-Teaching practices documentation and details
+Teaching Practices Instrument 
+Documentation and details
 ================
 
-[Labeled dataset](labeled_dataset_spanish.csv)
+
+
+[Labeled dataset](Data/Student_Feedback_Analysis_Dataset - labeled teaching practices.json)
 
 
 
