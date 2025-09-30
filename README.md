@@ -12,7 +12,7 @@ The extended version includes the 44 practices resulting from the content valida
 | Instrument | Content validation by expert panel | Construct validation through E-MIRT |  
 |:---|:---|:---|
 |[Short version](https://github.com/StudentCommentsProject/TeachingPracticesInstrument/blob/259242c073798f454840eaf98b53437847a14830/Instruments/Short_instrument_for_teaching_practices.json)| YES | YES | 
-|[Extended version]([https://github.com/StudentCommentsProject/TeachingPracticesInstrument/blob/259242c073798f454840eaf98b53437847a14830/Instruments/Short_instrument_for_teaching_practices.json](https://github.com/StudentCommentsProject/TeachingPracticesInstrument/blob/259242c073798f454840eaf98b53437847a14830/Instruments/Extended_instrument_for_teaching_practices.json))| YES | NO | 
+|[Extended version](https://github.com/StudentCommentsProject/TeachingPracticesInstrument/blob/259242c073798f454840eaf98b53437847a14830/Instruments/Extended_instrument_for_teaching_practices.json)| YES | NO | 
 
 
 
@@ -23,7 +23,7 @@ The data used correspond to the Estudent Feedback Analysis Dataset (Herath et al
 
 Our labeling of teaching practices is available in JSON format:
 
-[Labeled dataset]([Data/Student_Feedback_Analysis_Dataset - labeled teaching practices.json](https://github.com/StudentCommentsProject/TeachingPracticesInstrument/blob/33c03b02be7cd57b77bc489943a4ee5bbc667f1c/Data/Student_Feedback_Analysis_Dataset%20-%20labeled%20teaching%20practices.json))
+[Labeled dataset](https://github.com/StudentCommentsProject/TeachingPracticesInstrument/blob/33c03b02be7cd57b77bc489943a4ee5bbc667f1c/Data/Student_Feedback_Analysis_Dataset%20-%20labeled%20teaching%20practices.json)
 
 
 
