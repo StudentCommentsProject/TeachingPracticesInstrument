@@ -4,7 +4,7 @@ Documentation and details
 
 
 
-[Labeled dataset](Data/Student_Feedback_Analysis_Dataset - labeled teaching practices.json)
+[Labeled dataset]([Data/Student_Feedback_Analysis_Dataset - labeled teaching practices.json](https://github.com/StudentCommentsProject/TeachingPracticesInstrument/blob/33c03b02be7cd57b77bc489943a4ee5bbc667f1c/Data/Student_Feedback_Analysis_Dataset%20-%20labeled%20teaching%20practices.json))
 
 
 
