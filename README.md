@@ -88,12 +88,58 @@ Our labeling of teaching practices is available in JSON format:
 | Interactive materials| Effective | Provide students with materials they can interact with beyond the classroom (quizzes, exercises, or others)| | |
 | Clarity and comprehensibility explanations| Effective | Ensure that the course content is delivered clearly and understandably to improve student learning| | |
 | Clarity of course materials| Effective | Class visual resources (such as presentations or others) are understandable and facilitate content comprehension| | |
-| Lack of intellectual challenges| The course content, activities, or assignments do not present an interesting challenge for the students, their level of knowledge, and their skills.| | |
+| Lack of intellectual challenges| Malfunctional |The course content, activities, or assignments do not present an interesting challenge for the students, their level of knowledge, and their skills.| | |
 
 ### Frequencies in our dataset
+|Practice                                                     |     %|
+|:------------------------------------------------------------|-----:|
+|Close instructor-Student Relationship                        | 17.23|
+|Stimulating Student Interest                                 | 16.54|
+|Inadequate or insufficient scaffolding                       | 15.55|
+|Clarity and comprehensibility of explanations                | 14.63|
+|Instructor Enthusiasm for the Course                         | 10.35|
+|Providing Intellectual Challenges                            |  7.22|
+|No support for integration of new knowledge                  |  6.11|
+|Clarity of course materials                                  |  5.61|
+|Monotony in instructional activities                         |  5.46|
+|Course Structure                                             |  5.39|
+|Unbalanced goals                                             |  5.35|
+|Disorganization                                              |  5.19|
+|lack of intellectual challenges                              |  5.00|
+|No validation of assessment and grades                       |  4.32|
+|Quality and Fairness in Exams                                |  4.32|
+|No coaching                                                  |  4.28|
+|Contextualized Exemplification                               |  4.05|
+|Disrespectful treatment                                      |  3.71|
+|Encouraging Questions and Discussions                        |  3.71|
+|Constructive alignment                                       |  3.48|
+|Teacher Sensitivity to Class Level and Progress              |  2.94|
+|Modelling                                                    |  2.67|
+|Project-Based Learning                                       |  2.60|
+|Application of Knowledge                                     |  2.56|
+|No modeling                                                  |  2.52|
+|Interactive materials                                        |  2.06|
+|Unclear goals                                                |  1.76|
+|No preparing tasks                                           |  1.60|
+|Frequent Feedback from Teachers                              |  1.57|
+|Clarity in Course Objectives                                 |  1.38|
+|Student Self-Assessment                                      |  1.30|
+|No guiding overviews about new contents                      |  1.22|
+|Peer learning                                                |  1.15|
+|No application of knowledge and skills in different contexts |  0.99|
+|No constructive feedback                                     |  0.99|
+|Previous knowledge activation                                |  0.99|
+|Problem-Based Learning                                       |  0.84|
+|Bad timing in feedback                                       |  0.73|
+|Relating Content to Students’ Lives and Interests            |  0.73|
+|Discriminatory treatment                                     |  0.53|
+|No focus on past learning                                    |  0.34|
+|Authentic assessment                                         |  0.23|
+|No suggestions to think about connections or analogies       |  0.08|
+|Peer assessment                                              |  0.04|
 
 
-### Correlations among latent traits of E-MIRT models
+### Correlations among latent traits of E-MIRT models for Effective and Malfunctional practices
 
 
 #### Final model for Effective Teaching Practices
@@ -110,7 +156,7 @@ Our labeling of teaching practices is available in JSON format:
 | |Breakdown of constructive alignment | Lack of pedagogical support | Problems in curriculum design|
 |:---|:---|:---|:---|
 | Breakdown of constructive alignment| 1.00 |  | |
-| Lack of pedagogical support,|  0.028| 1.00 | |
+| Lack of pedagogical support|  0.028| 1.00 | |
 | Problems in curriculum design| 0.097| 0.195|1.00 |
 
 
