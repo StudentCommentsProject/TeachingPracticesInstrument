@@ -33,30 +33,30 @@ Our labeling of teaching practices is available in JSON format:
 
 | Type | Teaching Practice | Description | Source | Original |
 |:---|:---|:---|:---|:---|
-| Effective teaching practices | Active learning. | Students are actively engaged in their learning, either stimulated by the instructor or the curriculum, or due to their personal approach to their studies. | Smith & Baik |  |
-|  | Application of Knowledge. | Encouraging students to apply what they have learned in increasingly authentic, real-world contexts and/or in real-world-like problems. | Smith & Baik | Wilson, K., Lizzio, A., & Ramsden, P. (1997). The Development, Validation and Application of the Course Experience Questionnaire. Studies in Higher Education, 22(1), 33–53. |
-|  | Clarity in Course Objectives. | Defining clear objectives and expectations to guide students. | Schneider & Preckel: |  |
+| Effective teaching practices | Active learning. | Students are actively engaged in their learning, either stimulated by the instructor or the curriculum, or due to their personal approach to their studies. | Smith & Baik (2021) |  |
+|  | Application of Knowledge. | Encouraging students to apply what they have learned in increasingly authentic, real-world contexts and/or in real-world-like problems. | Smith & Baik (2021) | Wilson, K., Lizzio, A., & Ramsden, P. (1997). The Development, Validation and Application of the Course Experience Questionnaire. Studies in Higher Education, 22(1), 33–53. |
+|  | Clarity in Course Objectives. | Defining clear objectives and expectations to guide students. | Schneider & Preckel (2017) |  |
 |  | Contextualized Exemplification. | Providing students with examples of the application or materialization of concepts through detailed, specific, and anecdotal real-life stories. |  |  |
-|  | Project-Based Learning. | Engaging students in complex and authentic tasks that foster the development of practical skills under faculty supervision. | Schneider & Preckel: |  |
-|  | Providing Intellectual Challenges. | Challenging students to analyze, elaborate on new learning, and understand its theoretical and practical implications. | Schneider & Preckel: |  |
-|  | Relating Content to Students’ Lives and Interests. | Highlighting how new content connects with students’ personal contexts to facilitate integration with prior knowledge. | Schneider & Preckel: |  |
-|  | Constructive alignment. | Designing curriculum activities that support the achievement of objectives and reflect assessments. | Smith & Baik | Biggs, J. 1996. “Enhancing Teaching Through Constructive Alignment.” Higher Education 32 (3): 347–64. |
-|  | Problem-Based Learning. | Providing students with problems to solve, actively applying previously addressed knowledge. | Smith & Baik | Dagyar, M., & Demirel, M. (2015). Effects of problem-based learning on academic achievement: A meta-analysis study. Egitim ve Bilim, 40(181), 139–174. <doi:10.15390/EB.2015.4429> |
-|  | Course Structure. | Providing students with clarity in both the representation of conceptual content, the relationships between ideas, and the progressive development of learning toward a well-defined purpose and goal. | Smith & Baik | Marsh, H. W. 1982. “SEEQ: A Reliable, Valid, and Useful Instrument for Collecting Students’ Evaluations of University Teaching.” British Journal of Educational Psychology 52 (1): 77–95. <doi:10.1111/j.2044-8279.1982.tb02505.x> |
-|  | Stimulating Student Interest. | Engaging students by stimulating their interest in course material to foster better learning outcomes. | Smith & Baik | Marsh, H. W. 1982. “SEEQ: A Reliable, Valid, and Useful Instrument for Collecting Students’ Evaluations of University Teaching.” British Journal of Educational Psychology 52 (1): 77–95. <doi:10.1111/j.2044-8279.1982.tb02505.x> |
-|  | Previous knowledge activation. | Providing opportunities to recall previously learned ideas from memory; the active process guided by reconstruction cues. | Smith & Baik | Trigwell, K., Ashwin, P., & Millan, E. S. (2013). Evoked prior learning experience and approach to learning as predictors of academic achievement. British Journal of Educational Psychology, 83(3), 363–378. <doi:10.1111/j.2044-8279.2012.02066.x> |
-|  | Collaborative Learning. | Students learning in teams (also known as team-based learning). | Smith & Baik | Travis, L. L., Hudson, N. W., Henricks-Lepp, G. M., Street, W. S., & Weidenbenner, J. (2016). Team-Based Learning Improves Course Outcomes in Introductory Psychology. Teaching of Psychology, 43(2), 99–107. <doi:10.1177/0098628316636274> |
-|  | Peer learning. | Engage students in peer evaluation or peer teaching. | Smith & Baik | Hecimovich, M., & Volet, S. (2014). Simulated learning in musculoskeletal assessment and rehabilitation education: comparing the effect of a simulation-based learning activity with a peer-based learning activity. BMC Medical Education, 14, 253. <doi:http://dx.doi.org/10.1186/s12909-014-0253-6> |
-|  | Encouraging Questions and Discussions. | Encouraging students to ask questions and participate in discussions inside or outside the classroom. | Schneider & Preckel: |  |
-|  | Close Teacher-Student Relationship. | Teacher availability and willingness to help students or answer questions. | Smith & Baik | |
-|  | Clarity and Comprehensibility. | Ensuring that course content is delivered clearly and comprehensibly to enhance student learning. | Schneider & Preckel: |  |
-|  | Modelling. | Allowing students to witness problem-solving or reasoning so that thought processes, planning, or approaches become explicit. | Smith & Baik | Hilbert, T. S., Renkl, A., Kessler, S., & Reiss, K. (2008). Learning to prove in geometry: Learning from heuristic examples and how it can be supported. Learning and Instruction, 18(1), 54–65. <doi:10.1016/j.learninstruc.2006.10.008> |
-|  | Teacher Enthusiasm for the Course. | Demonstrating enthusiasm for the course or content to inspire students and create a positive learning environment. | Schneider & Preckel: |  |
-|  | Awareness of Learning/Progress. | Enabling students to recognize how they have developed/learned. | Smith & Baik | Masui, C., & Corte, E. (2005). Learning to reflect and to attribute constructively as basic components of self-regulated learning. British Journal of Educational Psychology, 75(3), 351–372. <doi:10.1348/000709905X25030> |
-|  | Frequent Feedback from Teachers. | Providing timely and high-quality feedback to help students understand their progress and areas for improvement. | Smith & Baik |  |
-|  | Quality and Fairness in Exams. | Ensuring that exams are fair, well-structured, and aligned with learning objectives to accurately assess achievement. | Schneider & Preckel: |  |
-|  | Student Self-Assessment. | Encouraging students to evaluate their own work, promoting reflection and self-awareness in learning. | Smith & Baik | Masui, C., & Corte, E. (2005). Learning to reflect and to attribute constructively as basic components of self-regulated learning. British Journal of Educational Psychology, 75(3), 351–372. <doi:10.1348/000709905X25030> |
-|  | Teacher Sensitivity to Class Level and Progress. | Adapting teaching and assessment practices to align with students’ current levels and progress. | Schneider & Preckel: |  |
+|  | Project-Based Learning. | Engaging students in complex and authentic tasks that foster the development of practical skills under faculty supervision. | Schneider & Preckel (2017) |  |
+|  | Providing Intellectual Challenges. | Challenging students to analyze, elaborate on new learning, and understand its theoretical and practical implications. | Schneider & Preckel (2017) |  |
+|  | Relating Content to Students’ Lives and Interests. | Highlighting how new content connects with students’ personal contexts to facilitate integration with prior knowledge. | Schneider & Preckel (2017) |  |
+|  | Constructive alignment. | Designing curriculum activities that support the achievement of objectives and reflect assessments. | Smith & Baik (2021) | Biggs, J. 1996. “Enhancing Teaching Through Constructive Alignment.” Higher Education 32 (3): 347–64. |
+|  | Problem-Based Learning. | Providing students with problems to solve, actively applying previously addressed knowledge. | Smith & Baik (2021) | Dagyar, M., & Demirel, M. (2015). Effects of problem-based learning on academic achievement: A meta-analysis study. Egitim ve Bilim, 40(181), 139–174. <doi:10.15390/EB.2015.4429> |
+|  | Course Structure. | Providing students with clarity in both the representation of conceptual content, the relationships between ideas, and the progressive development of learning toward a well-defined purpose and goal. | Smith & Baik (2021) | Marsh, H. W. 1982. “SEEQ: A Reliable, Valid, and Useful Instrument for Collecting Students’ Evaluations of University Teaching.” British Journal of Educational Psychology 52 (1): 77–95. <doi:10.1111/j.2044-8279.1982.tb02505.x> |
+|  | Stimulating Student Interest. | Engaging students by stimulating their interest in course material to foster better learning outcomes. | Smith & Baik (2021) | Marsh, H. W. 1982. “SEEQ: A Reliable, Valid, and Useful Instrument for Collecting Students’ Evaluations of University Teaching.” British Journal of Educational Psychology 52 (1): 77–95. <doi:10.1111/j.2044-8279.1982.tb02505.x> |
+|  | Previous knowledge activation. | Providing opportunities to recall previously learned ideas from memory; the active process guided by reconstruction cues. | Smith & Baik (2021) | Trigwell, K., Ashwin, P., & Millan, E. S. (2013). Evoked prior learning experience and approach to learning as predictors of academic achievement. British Journal of Educational Psychology, 83(3), 363–378. <doi:10.1111/j.2044-8279.2012.02066.x> |
+|  | Collaborative Learning. | Students learning in teams (also known as team-based learning). | Smith & Baik (2021) | Travis, L. L., Hudson, N. W., Henricks-Lepp, G. M., Street, W. S., & Weidenbenner, J. (2016). Team-Based Learning Improves Course Outcomes in Introductory Psychology. Teaching of Psychology, 43(2), 99–107. <doi:10.1177/0098628316636274> |
+|  | Peer learning. | Engage students in peer evaluation or peer teaching. | Smith & Baik (2021) | Hecimovich, M., & Volet, S. (2014). Simulated learning in musculoskeletal assessment and rehabilitation education: comparing the effect of a simulation-based learning activity with a peer-based learning activity. BMC Medical Education, 14, 253. <doi:http://dx.doi.org/10.1186/s12909-014-0253-6> |
+|  | Encouraging Questions and Discussions. | Encouraging students to ask questions and participate in discussions inside or outside the classroom. | Schneider & Preckel (2017) |  |
+|  | Close Teacher-Student Relationship. | Teacher availability and willingness to help students or answer questions. | Smith & Baik (2021) | |
+|  | Clarity and Comprehensibility. | Ensuring that course content is delivered clearly and comprehensibly to enhance student learning. | Schneider & Preckel (2017) |  |
+|  | Modelling. | Allowing students to witness problem-solving or reasoning so that thought processes, planning, or approaches become explicit. | Smith & Baik (2021) | Hilbert, T. S., Renkl, A., Kessler, S., & Reiss, K. (2008). Learning to prove in geometry: Learning from heuristic examples and how it can be supported. Learning and Instruction, 18(1), 54–65. <doi:10.1016/j.learninstruc.2006.10.008> |
+|  | Teacher Enthusiasm for the Course. | Demonstrating enthusiasm for the course or content to inspire students and create a positive learning environment. | Schneider & Preckel (2017) |  |
+|  | Awareness of Learning/Progress. | Enabling students to recognize how they have developed/learned. | Smith & Baik (2021) | Masui, C., & Corte, E. (2005). Learning to reflect and to attribute constructively as basic components of self-regulated learning. British Journal of Educational Psychology, 75(3), 351–372. <doi:10.1348/000709905X25030> |
+|  | Frequent Feedback from Teachers. | Providing timely and high-quality feedback to help students understand their progress and areas for improvement. | Smith & Baik (2021) |  |
+|  | Quality and Fairness in Exams. | Ensuring that exams are fair, well-structured, and aligned with learning objectives to accurately assess achievement. | Schneider & Preckel (2017) |  |
+|  | Student Self-Assessment. | Encouraging students to evaluate their own work, promoting reflection and self-awareness in learning. | Smith & Baik (2021) | Masui, C., & Corte, E. (2005). Learning to reflect and to attribute constructively as basic components of self-regulated learning. British Journal of Educational Psychology, 75(3), 351–372. <doi:10.1348/000709905X25030> |
+|  | Teacher Sensitivity to Class Level and Progress. | Adapting teaching and assessment practices to align with students’ current levels and progress. | Schneider & Preckel (2017) |  |
 | Malfunctional teaching practices | Monotony in instructional activities. | Faculty use the same teaching-learning activities repeatedly or for a long-time within the lesson. | Astleitner (2020) | Daschmann, E. C., Goetz, T., & Stupnisky, R. H. (2011). Testing the predictors of boredom at school: Development and validation of the precursors to boredom scales. British Journal of Educational Psychology, 81, 421–440. doi: <https://doi.org/10.1348/000709910X526038> |
 |  | No perceptual arousal. | There are no (unexpected) changes in the learning environment concerning visual or auditory parameters. | Astleitner (2020) | Schmidt, C. P., Andrews, M. L., & McCutcheon, J. W. (1998). An acoustical and perceptual analysis of the vocal behavior of classroom teachers. Journal of Voice, 12, 434–443. doi: <https://doi.org/10.1016/S0892-1997(98)80052-0> |
 |  | No inquiry arousal. | There are no open questions, unsolved problems, or mysteries which need knowledge-seeking behavior. | Astleitner (2020) | Yoon, H. G., Joung, Y. J., & Kim, M. (2012). The challenges of science inquiry teaching for pre-service teachers in elementary classrooms: Difficulties on and under the scene. Research in Science Education, 42, 589–608. doi: <https://doi.org/10.1007/> s11165-011-9212-y |
@@ -90,53 +90,55 @@ Our labeling of teaching practices is available in JSON format:
 | Clarity of course materials| Effective | Class visual resources (such as presentations or others) are understandable and facilitate content comprehension| | |
 | Lack of intellectual challenges| Malfunctional |The course content, activities, or assignments do not present an interesting challenge for the students, their level of knowledge, and their skills.| | |
 
-### Frequencies in our dataset
-|Practice                                                     |     %|
-|:------------------------------------------------------------|-----:|
-|Close instructor-Student Relationship                        | 17.23|
-|Stimulating Student Interest                                 | 16.54|
-|Inadequate or insufficient scaffolding                       | 15.55|
-|Clarity and comprehensibility of explanations                | 14.63|
-|Instructor Enthusiasm for the Course                         | 10.35|
-|Providing Intellectual Challenges                            |  7.22|
-|No support for integration of new knowledge                  |  6.11|
-|Clarity of course materials                                  |  5.61|
-|Monotony in instructional activities                         |  5.46|
-|Course Structure                                             |  5.39|
-|Unbalanced goals                                             |  5.35|
-|Disorganization                                              |  5.19|
-|lack of intellectual challenges                              |  5.00|
-|No validation of assessment and grades                       |  4.32|
-|Quality and Fairness in Exams                                |  4.32|
-|No coaching                                                  |  4.28|
-|Contextualized Exemplification                               |  4.05|
-|Disrespectful treatment                                      |  3.71|
-|Encouraging Questions and Discussions                        |  3.71|
-|Constructive alignment                                       |  3.48|
-|Teacher Sensitivity to Class Level and Progress              |  2.94|
-|Modelling                                                    |  2.67|
-|Project-Based Learning                                       |  2.60|
-|Application of Knowledge                                     |  2.56|
-|No modeling                                                  |  2.52|
-|Interactive materials                                        |  2.06|
-|Unclear goals                                                |  1.76|
-|No preparing tasks                                           |  1.60|
-|Frequent Feedback from Teachers                              |  1.57|
-|Clarity in Course Objectives                                 |  1.38|
-|Student Self-Assessment                                      |  1.30|
-|No guiding overviews about new contents                      |  1.22|
-|Peer learning                                                |  1.15|
-|No application of knowledge and skills in different contexts |  0.99|
-|No constructive feedback                                     |  0.99|
-|Previous knowledge activation                                |  0.99|
-|Problem-Based Learning                                       |  0.84|
-|Bad timing in feedback                                       |  0.73|
-|Relating Content to Students’ Lives and Interests            |  0.73|
-|Discriminatory treatment                                     |  0.53|
-|No focus on past learning                                    |  0.34|
-|Authentic assessment                                         |  0.23|
-|No suggestions to think about connections or analogies       |  0.08|
-|Peer assessment                                              |  0.04|
+### Frequencies in labeled dataset
+
+|Practice                                                     | Count|     %|
+|:------------------------------------------------------------|-----:|-----:|
+|Close instructor-Student Relationship                        |   451| 17.23|
+|Stimulating Student Interest                                 |   433| 16.54|
+|Inadequate or insufficient scaffolding                       |   407| 15.55|
+|Clarity and comprehensibility of explanations                |   383| 14.63|
+|Instructor Enthusiasm for the Course                         |   271| 10.35|
+|Providing Intellectual Challenges                            |   189|  7.22|
+|No support for integration of new knowledge                  |   160|  6.11|
+|Clarity of course materials                                  |   147|  5.61|
+|Monotony in instructional activities                         |   143|  5.46|
+|Course Structure                                             |   141|  5.39|
+|Unbalanced goals                                             |   140|  5.35|
+|Disorganization                                              |   136|  5.19|
+|lack of intellectual challenges                              |   131|  5.00|
+|No validation of assessment and grades                       |   113|  4.32|
+|Quality and Fairness in Exams                                |   113|  4.32|
+|No coaching                                                  |   112|  4.28|
+|Contextualized Exemplification                               |   106|  4.05|
+|Disrespectful treatment                                      |    97|  3.71|
+|Encouraging Questions and Discussions                        |    97|  3.71|
+|Constructive alignment                                       |    91|  3.48|
+|Teacher Sensitivity to Class Level and Progress              |    77|  2.94|
+|Modelling                                                    |    70|  2.67|
+|Project-Based Learning                                       |    68|  2.60|
+|Application of Knowledge                                     |    67|  2.56|
+|No modeling                                                  |    66|  2.52|
+|Interactive materials                                        |    54|  2.06|
+|Unclear goals                                                |    46|  1.76|
+|No preparing tasks                                           |    42|  1.60|
+|Frequent Feedback from Teachers                              |    41|  1.57|
+|Clarity in Course Objectives                                 |    36|  1.38|
+|Student Self-Assessment                                      |    34|  1.30|
+|No guiding overviews about new contents                      |    32|  1.22|
+|Peer learning                                                |    30|  1.15|
+|No application of knowledge and skills in different contexts |    26|  0.99|
+|No constructive feedback                                     |    26|  0.99|
+|Previous knowledge activation                                |    26|  0.99|
+|Problem-Based Learning                                       |    22|  0.84|
+|Bad timing in feedback                                       |    19|  0.73|
+|Relating Content to Students’ Lives and Interests            |    19|  0.73|
+|Discriminatory treatment                                     |    14|  0.53|
+|No focus on past learning                                    |     9|  0.34|
+|Authentic assessment                                         |     6|  0.23|
+|No suggestions to think about connections or analogies       |     2|  0.08|
+|Peer assessment                                              |     1|  0.04|
+
 
 
 ### Correlations among latent traits of E-MIRT models for Effective and Malfunctional practices
